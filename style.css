@@ -1,0 +1,29 @@
+
+
+
+body
+{
+    background-color: #f7ecde;
+}
+
+.bookMarkBody
+{
+    border-width: 2px 0px 2px 0px;
+    border-color:#352e28;
+    border-style: dotted;
+}
+
+h3
+{
+    color: #3ca55c;
+}
+
+
+
+h1
+{
+    font-family: "Pacifico", cursive;
+    color: #352e28;
+    margin: auto;
+}
+
